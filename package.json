@@ -1,6 +1,6 @@
 {
   "name": "scapegoat20160706",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "a couple utility methods for escaping and unescaping HTML entities",
   "main": "index.js",
   "scripts": {
