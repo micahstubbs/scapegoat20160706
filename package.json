@@ -4,7 +4,7 @@
   "description": "a couple utility methods for escaping and unescaping HTML entities",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
