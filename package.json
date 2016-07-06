@@ -1,0 +1,28 @@
+{
+  "name": "scapegoat20160706",
+  "version": "1.0.0",
+  "description": "a couple utility methods for escaping and unescaping HTML entities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micahstubbs/scapegoat20160706.git"
+  },
+  "keywords": [
+    "escape",
+    "unescape",
+    "html"
+  ],
+  "author": "@micahstubbs <micah.stubbs@gmail.com> (https://twitter.com/micahstubbs)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/micahstubbs/scapegoat20160706/issues"
+  },
+  "homepage": "https://github.com/micahstubbs/scapegoat20160706#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
